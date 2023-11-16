@@ -1,0 +1,115 @@
+{
+  "articles": [
+      {
+          "slug": "fgsdfdsh-7cxe0s",
+          "title": "Fake article with likes",
+          "description": "Fake article description with likes",
+          "body": "Fake article body with likes",
+          "createdAt": "2023-11-15T19:01:30.383Z",
+          "updatedAt": "2023-11-15T19:01:30.383Z",
+          "tagList": [],
+          "favorited": true,
+          "favoritesCount": 1000000,
+          "author": {
+              "username": "dmytro",
+              "bio": null,
+              "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+              "following": false
+          }
+      },
+      {
+          "slug": "taggg-2r8lzr",
+          "title": "taggg",
+          "description": "sdfsdfs",
+          "body": "ffdsdf",
+          "createdAt": "2023-11-15T19:00:13.906Z",
+          "updatedAt": "2023-11-15T19:00:13.906Z",
+          "tagList": [
+              "dffd"
+          ],
+          "favorited": true,
+          "favoritesCount": 1,
+          "author": {
+              "username": "dmytro",
+              "bio": null,
+              "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+              "following": false
+          }
+      },
+      {
+          "slug": "tagggg--zab9sj",
+          "title": "tagggg",
+          "description": "tagggg",
+          "body": "tagggg",
+          "createdAt": "2023-11-15T18:59:44.318Z",
+          "updatedAt": "2023-11-15T18:59:44.318Z",
+          "tagList": [
+              "tagggg"
+          ],
+          "favorited": false,
+          "favoritesCount": 0,
+          "author": {
+              "username": "dmytro",
+              "bio": null,
+              "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+              "following": false
+          }
+      },
+      {
+          "slug": "qweww-a2m7db",
+          "title": "qweww",
+          "description": "qweqwq",
+          "body": "dfgdsdgfgs",
+          "createdAt": "2023-11-15T18:59:41.211Z",
+          "updatedAt": "2023-11-15T18:59:41.211Z",
+          "tagList": [],
+          "favorited": false,
+          "favoritesCount": 0,
+          "author": {
+              "username": "dmytro",
+              "bio": null,
+              "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+              "following": false
+          }
+      },
+      {
+          "slug": "qwe-epqcd2",
+          "title": "qwe",
+          "description": "qwe",
+          "body": "qwe",
+          "createdAt": "2022-10-27T18:02:53.739Z",
+          "updatedAt": "2022-10-27T18:02:53.739Z",
+          "tagList": [
+              "qwe"
+          ],
+          "favorited": false,
+          "favoritesCount": 0,
+          "author": {
+              "username": "dmytro",
+              "bio": null,
+              "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+              "following": false
+          }
+      },
+      {
+          "slug": "qwe-fnvv48",
+          "title": "qwe",
+          "description": "qwe",
+          "body": "qwe",
+          "createdAt": "2022-10-27T18:02:53.343Z",
+          "updatedAt": "2022-10-27T18:02:53.343Z",
+          "tagList": [
+              "qwe"
+          ],
+          "favorited": true,
+          "favoritesCount": 1,
+          "author": {
+              "username": "dmytro",
+              "bio": null,
+              "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+              "following": false
+          }
+      }
+  ],
+  "articlesCount": 6
+}
